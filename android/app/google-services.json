@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "852893931665",
+    "firebase_url": "https://nemesis-finder-default-rtdb.firebaseio.com",
+    "project_id": "nemesis-finder",
+    "storage_bucket": "nemesis-finder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852893931665:android:79d18cf167300af6260730",
+        "android_client_info": {
+          "package_name": "com.example.nemesis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852893931665-s1j92fcncvdgv3256m7fcnvolooen12u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVwHrqFBzLiuoEsU5ybEiHdYnrEMK5SM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852893931665-s1j92fcncvdgv3256m7fcnvolooen12u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "852893931665-50q6ggufvlil7muhc9okk2nrfa87ndbc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "nemesis"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852893931665:android:73edbe79815ca909260730",
+        "android_client_info": {
+          "package_name": "com.nemsys.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852893931665-me8vjj60dsunfopao901bkjg02gnqnb4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nemsys.app",
+            "certificate_hash": "7b40f3137ac011358312dee79e0a3cb7416fc411"
+          }
+        },
+        {
+          "client_id": "852893931665-s1j92fcncvdgv3256m7fcnvolooen12u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVwHrqFBzLiuoEsU5ybEiHdYnrEMK5SM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852893931665-s1j92fcncvdgv3256m7fcnvolooen12u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "852893931665-50q6ggufvlil7muhc9okk2nrfa87ndbc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "nemesis"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
